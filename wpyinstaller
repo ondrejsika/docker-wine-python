@@ -1,0 +1,4 @@
+#!/bin/bash
+
+wine32 /root/.wine/drive_c/Python27/Scripts/pyinstaller.exe $@
+

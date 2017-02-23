@@ -1,0 +1,4 @@
+#!/bin/bash
+
+wpyinstaller --onefile $1
+

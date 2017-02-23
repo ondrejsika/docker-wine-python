@@ -1,0 +1,3 @@
+[submodule "wine-data"]
+    path = wine
+    url = https://github.com/ondrejsika/docker-wine-python--wine-data.git
